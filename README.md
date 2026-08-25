@@ -58,11 +58,31 @@ Tabela de apoio com os percentuais de alocação recomendados para cada combina�
 
 ## 🖼️ Capturas de Tela
 
-<!-- Adicione aqui prints da planilha em uso, salvos na pasta /images -->
-<!-- Exemplo: -->
-<!-- ![Simulador - Investimento Mensal](images/simulador-investimento-mensal.png) -->
-<!-- ![Simulador - Distribuição por Perfil](images/simulador-distribuicao-perfil.png) -->
+### Configurações
 
+
+![Configurações](images/configuracoes.png)
+
+
+
+### Investimento Mensal
+
+
+![Investimento Mensal](images/investimento-mensal.png)
+
+
+
+### Cenários de Projeção
+
+
+![Cenários](images/cenarios.png)
+
+
+
+### Perfil e Alocação por Tipo de FII
+
+
+![Perfil e Alocação](images/perfil-alocacao.png)
 ## 📚 Aprendizados
 
 Durante o desenvolvimento deste desafio, pratiquei:
